@@ -3,4 +3,6 @@ transformers==4.21.0
 torch==2.3.1
 pandas
 nltk
+tokenizers==0.12.1
+
 
